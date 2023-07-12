@@ -16,4 +16,4 @@ With Upgraded plan, for taking an API response :)
 "pip install gradio"
 
 5. OUTPUT IMAGE AS A WEBPAGE
-6. ![webpage](https://github.com/CreativeAnkush/CHATGPT/assets/92021625/ddc87316-581b-42cf-98be-15f7e942c3e1)
+ ![webpage](https://github.com/CreativeAnkush/CHATGPT/assets/92021625/ddc87316-581b-42cf-98be-15f7e942c3e1)
