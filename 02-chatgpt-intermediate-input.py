@@ -1,8 +1,9 @@
 import openai
 
-openai.api_key = "####"
+openai.api_key = "sk-"
 
 messages = []
+#dynamic method
 system_msg = input("What type of chatbot would you like to create?\n")
 messages.append({"role": "system", "content": system_msg})
 
