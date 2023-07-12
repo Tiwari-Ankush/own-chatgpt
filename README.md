@@ -1,5 +1,5 @@
 # CHATGPT 
-https://github.com/crativeankush/
+https://github.com/CreativeAnkush/
 
 1. IDE- VSCODE
 https://code.visualstudio.com/
