@@ -9,7 +9,7 @@ https://platform.openai.com/
 With Upgraded plan, for taking an API response :)
 
 3. CHATGPT API KEY-
-"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"
+"sk-"
 
 4. INSTALL MODULES-
 "pip install openai"
