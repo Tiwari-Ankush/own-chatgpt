@@ -1,5 +1,5 @@
 # CHATGPT 
-https://github.com/crativeankush/chatgpt
+https://github.com/crativeankush/
 
 1. IDE- VSCODE
 https://code.visualstudio.com/
